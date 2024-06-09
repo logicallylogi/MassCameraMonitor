@@ -1,0 +1,304 @@
+2023-08-19 16:25:02,646 [DEBUG] The console will now display all debug information.
+2023-08-19 16:28:41,698 [WARNING] The console will now display all debug information.
+2023-08-19 16:29:01,120 [DEBUG] The console will now display all debug information.
+2023-08-19 16:29:25,672 [DEBUG] The console will now display all debug information.
+2023-08-20 02:00:30,897 [DEBUG] The console will now display all debug information.
+2023-08-20 02:00:30,898 [DEBUG] Camera mode has been selected.
+2023-08-20 02:00:30,898 [INFO] The camera server should start shortly.
+2023-08-20 02:03:18,988 [DEBUG] The console will now display all debug information.
+2023-08-20 02:03:18,988 [DEBUG] Display mode has been selected.
+2023-08-20 02:03:18,988 [INFO] You should see what localhost:5555 can see.
+2023-08-20 02:03:25,632 [DEBUG] The console will now display all debug information.
+2023-08-20 02:03:25,632 [DEBUG] Display mode has been selected.
+2023-08-20 02:03:25,632 [INFO] You should see what http://localhost:5555 can see.
+2023-08-20 02:04:50,146 [DEBUG] The console will now display all debug information.
+2023-08-20 02:04:50,146 [DEBUG] Display mode has been selected.
+2023-08-20 02:04:50,146 [INFO] You should see what localhost:5555 can see.
+2023-08-20 02:04:50,146 [INFO] Press 'Q' to quit.
+2023-08-20 02:04:59,141 [DEBUG] The console will now display all debug information.
+2023-08-20 02:04:59,141 [DEBUG] Display mode has been selected.
+2023-08-20 02:04:59,141 [INFO] You should see what http://localhost:5555 can see.
+2023-08-20 02:04:59,141 [INFO] Press 'Q' to quit.
+2023-08-20 02:05:12,077 [DEBUG] The console will now display all debug information.
+2023-08-20 02:05:12,078 [DEBUG] Display mode has been selected.
+2023-08-20 02:05:12,078 [INFO] You should see what http://localhost:5555 can see.
+2023-08-20 02:05:12,078 [INFO] Press 'Q' to quit.
+2023-08-20 02:05:27,348 [DEBUG] The console will now display all debug information.
+2023-08-20 02:05:27,349 [DEBUG] Display mode has been selected.
+2023-08-20 02:05:27,349 [INFO] You should see what http://localhost:5555 can see.
+2023-08-20 02:05:27,349 [INFO] Press 'Q' to quit.
+2023-08-20 02:06:57,966 [DEBUG] The console will now display all debug information.
+2023-08-20 02:06:57,966 [DEBUG] Display mode has been selected.
+2023-08-20 02:06:57,966 [INFO] You should see what localhost can see.
+2023-08-20 02:06:57,966 [INFO] Press 'Q' to quit.
+2023-08-20 16:26:07,401 [DEBUG] Display mode has been selected.
+2023-08-20 16:26:07,401 [INFO] You should see what 127.0.0.1 can see.
+2023-08-20 16:26:07,401 [INFO] Press 'Q' to quit.
+2023-08-20 16:50:01,777 [DEBUG] Display mode has been selected.
+2023-08-20 16:50:01,777 [INFO] You should see what localhost can see.
+2023-08-20 16:50:01,777 [INFO] Press 'Q' to quit.
+2023-08-20 16:50:06,325 [DEBUG] Camera mode has been selected.
+2023-08-20 16:50:06,326 [INFO] The camera server should start shortly.
+2023-08-20 16:54:19,480 [DEBUG] Camera mode has been selected.
+2023-08-20 16:54:19,480 [INFO] The camera server should start shortly.
+2023-08-20 16:55:24,423 [DEBUG] Camera mode has been selected.
+2023-08-20 16:55:24,423 [INFO] The camera server should start shortly.
+2023-08-20 16:56:08,947 [DEBUG] Camera mode has been selected.
+2023-08-20 16:56:08,947 [INFO] The camera server should start shortly.
+2023-08-20 16:56:09,911 [DEBUG] Display mode has been selected.
+2023-08-20 16:56:09,911 [INFO] You should see what localhost can see.
+2023-08-20 16:56:09,911 [INFO] Press 'Q' to quit.
+2023-08-20 16:57:01,719 [DEBUG] Camera mode has been selected.
+2023-08-20 16:57:01,719 [INFO] The camera server should start shortly.
+2023-08-20 16:57:02,634 [DEBUG] Display mode has been selected.
+2023-08-20 16:57:02,635 [INFO] You should see what localhost can see.
+2023-08-20 16:57:02,635 [INFO] Press 'Q' to quit.
+2023-08-20 16:57:53,779 [DEBUG] Camera mode has been selected.
+2023-08-20 16:57:53,779 [INFO] The camera server should start shortly.
+2023-08-20 16:57:54,709 [DEBUG] Display mode has been selected.
+2023-08-20 16:57:54,709 [INFO] You should see what localhost can see.
+2023-08-20 16:57:54,709 [INFO] Press 'Q' to quit.
+2023-08-20 20:30:31,684 [DEBUG] Camera mode has been selected.
+2023-08-20 20:30:31,685 [INFO] The camera server should start shortly.
+2023-08-20 20:30:35,378 [DEBUG] Camera mode has been selected.
+2023-08-20 20:30:35,378 [INFO] The camera server should start shortly.
+2023-08-20 20:30:36,409 [DEBUG] Display mode has been selected.
+2023-08-20 20:30:36,409 [INFO] You should see what localhost can see.
+2023-08-20 20:30:36,409 [INFO] Press 'Q' to quit.
+2023-08-20 20:31:17,680 [DEBUG] Camera mode has been selected.
+2023-08-20 20:31:17,681 [INFO] The camera server should start shortly.
+2023-08-20 20:31:18,593 [DEBUG] Display mode has been selected.
+2023-08-20 20:31:18,593 [INFO] You should see what 127.0.0.1 can see.
+2023-08-20 20:31:18,593 [INFO] Press 'Q' to quit.
+2023-08-20 20:34:03,736 [DEBUG] Camera mode has been selected.
+2023-08-20 20:34:03,736 [INFO] The camera server should start shortly.
+2023-08-20 20:34:04,660 [DEBUG] Display mode has been selected.
+2023-08-20 20:34:04,660 [INFO] You should see what 127.0.0.1 can see.
+2023-08-20 20:34:04,660 [INFO] Press 'Q' to quit.
+2023-08-20 20:34:04,714 [WARNING] An error was made connecting to the camera. Waiting 5 seconds.
+2023-08-20 20:34:04,714 [DEBUG] Attempted and failed connection to config.ini
+2023-08-20 20:34:09,719 [INFO] Trying again... NOW
+2023-08-20 20:34:09,735 [WARNING] An error was made connecting to the camera. Waiting 5 seconds.
+2023-08-20 20:34:09,735 [DEBUG] Attempted and failed connection to config.ini
+2023-08-20 20:34:14,736 [INFO] Trying again... NOW
+2023-08-20 20:34:14,753 [WARNING] An error was made connecting to the camera. Waiting 5 seconds.
+2023-08-20 20:34:14,753 [DEBUG] Attempted and failed connection to config.ini
+2023-08-20 20:34:19,758 [INFO] Trying again... NOW
+2023-08-20 20:34:19,776 [WARNING] An error was made connecting to the camera. Waiting 5 seconds.
+2023-08-20 20:34:19,776 [DEBUG] Attempted and failed connection to config.ini
+2023-08-20 20:34:27,310 [DEBUG] The console will now display all debug information.
+2023-08-20 20:34:27,310 [DEBUG] Camera mode has been selected.
+2023-08-20 20:34:27,310 [INFO] The camera server should start shortly.
+2023-08-20 20:34:28,221 [DEBUG] Display mode has been selected.
+2023-08-20 20:34:28,221 [INFO] You should see what 127.0.0.1 can see.
+2023-08-20 20:34:28,221 [INFO] Press 'Q' to quit.
+2023-08-20 20:34:28,275 [WARNING] An error was made connecting to the camera. Waiting 5 seconds.
+2023-08-20 20:34:28,275 [DEBUG] Attempted and failed connection to config.ini
+2023-08-20 20:34:33,277 [INFO] Trying again... NOW
+2023-08-20 20:34:33,296 [WARNING] An error was made connecting to the camera. Waiting 5 seconds.
+2023-08-20 20:34:33,296 [DEBUG] Attempted and failed connection to config.ini
+2023-08-20 20:35:16,362 [DEBUG] The console will now display all debug information.
+2023-08-20 20:35:16,362 [DEBUG] Camera mode has been selected.
+2023-08-20 20:35:16,362 [INFO] The camera server should start shortly.
+2023-08-20 20:35:17,285 [DEBUG] Display mode has been selected.
+2023-08-20 20:35:17,286 [INFO] You should see what 127.0.0.1 can see.
+2023-08-20 20:35:17,286 [INFO] Press 'Q' to quit.
+2023-08-20 20:36:25,479 [DEBUG] The console will now display all debug information.
+2023-08-20 20:36:25,480 [DEBUG] Camera mode has been selected.
+2023-08-20 20:36:25,480 [INFO] The camera server should start shortly.
+2023-08-20 20:36:26,396 [DEBUG] Display mode has been selected.
+2023-08-20 20:36:26,396 [INFO] You should see what 127.0.0.1 can see.
+2023-08-20 20:36:26,396 [INFO] Press 'Q' to quit.
+2023-08-20 20:40:43,179 [DEBUG] Camera mode has been selected.
+2023-08-20 20:40:43,180 [INFO] The camera server should start shortly.
+2023-08-20 20:40:47,570 [DEBUG] The console will now display all debug information.
+2023-08-20 20:40:47,570 [DEBUG] Camera mode has been selected.
+2023-08-20 20:40:47,570 [INFO] The camera server should start shortly.
+2023-08-20 20:40:48,473 [DEBUG] Display mode has been selected.
+2023-08-20 20:40:48,473 [INFO] You should see what 127.0.0.1 can see.
+2023-08-20 20:40:48,473 [INFO] Press 'Q' to quit.
+2023-08-21 09:41:45,791 [DEBUG] Camera mode has been selected.
+2023-08-21 09:41:45,792 [INFO] The camera server should start shortly.
+2023-08-21 09:42:27,277 [DEBUG] Processing mode has been selected.
+2023-08-21 09:52:29,273 [DEBUG] Processing mode has been selected.
+2023-08-21 09:55:33,861 [DEBUG] Processing mode has been selected.
+2023-08-21 09:55:46,648 [DEBUG] Processing mode has been selected.
+2023-08-21 09:56:44,349 [DEBUG] Processing mode has been selected.
+2023-08-21 09:57:05,660 [DEBUG] Processing mode has been selected.
+2023-08-21 13:24:58,237 [DEBUG] Camera mode has been selected.
+2023-08-21 13:24:58,237 [INFO] The camera server should start shortly.
+2023-08-21 13:25:15,988 [DEBUG] Processing mode has been selected.
+2023-08-21 13:26:45,754 [DEBUG] Processing mode has been selected.
+2023-08-21 13:27:10,951 [DEBUG] Processing mode has been selected.
+2023-08-21 13:27:35,502 [DEBUG] Processing mode has been selected.
+2023-08-21 13:27:56,761 [DEBUG] Processing mode has been selected.
+2023-08-21 13:28:51,716 [DEBUG] Processing mode has been selected.
+2023-08-21 13:29:06,303 [DEBUG] Processing mode has been selected.
+2023-08-21 13:29:18,271 [DEBUG] Processing mode has been selected.
+2023-08-21 13:29:33,225 [DEBUG] Processing mode has been selected.
+2023-08-21 13:29:35,346 [DEBUG] dict_values(['yes'])
+2023-08-21 13:30:06,117 [DEBUG] Processing mode has been selected.
+2023-08-21 13:30:08,149 [DEBUG] dict_values(['yes'])
+2023-08-21 13:30:17,591 [DEBUG] Processing mode has been selected.
+2023-08-21 13:30:19,884 [DEBUG] {'172.0.0.1': 'yes'}
+2023-08-21 13:30:32,467 [DEBUG] The console will now display all debug information.
+2023-08-21 13:30:32,467 [DEBUG] Processing mode has been selected.
+2023-08-21 13:30:34,425 [DEBUG] {'172.0.0.1': 'yes'}
+2023-08-21 13:31:03,232 [DEBUG] The console will now display all debug information.
+2023-08-21 13:31:03,232 [DEBUG] Processing mode has been selected.
+2023-08-21 13:31:05,116 [DEBUG] dict_values(['yes'])
+2023-08-21 13:31:22,711 [DEBUG] The console will now display all debug information.
+2023-08-21 13:31:22,711 [DEBUG] Processing mode has been selected.
+2023-08-21 13:31:24,539 [DEBUG] {'172.0.0.1': 'yes'}
+2023-08-21 13:32:04,087 [DEBUG] The console will now display all debug information.
+2023-08-21 13:32:04,088 [DEBUG] Processing mode has been selected.
+2023-08-21 13:32:06,056 [DEBUG] {'172.0.0.1': 'yes'}
+2023-08-21 13:33:59,092 [DEBUG] The console will now display all debug information.
+2023-08-21 13:33:59,092 [DEBUG] Processing mode has been selected.
+2023-08-21 13:34:01,034 [DEBUG] {'localhost': 'yes'}
+2023-08-21 13:35:21,827 [DEBUG] The console will now display all debug information.
+2023-08-21 13:35:21,827 [DEBUG] Processing mode has been selected.
+2023-08-21 13:35:23,665 [DEBUG] {'localhost': 'yes'}
+2023-08-21 13:36:05,959 [DEBUG] The console will now display all debug information.
+2023-08-21 13:36:05,959 [DEBUG] Processing mode has been selected.
+2023-08-21 13:36:07,821 [DEBUG] {'localhost': 'yes'}
+2023-08-21 13:39:47,261 [DEBUG] The console will now display all debug information.
+2023-08-21 13:39:47,262 [DEBUG] Processing mode has been selected.
+2023-08-21 13:39:49,053 [DEBUG] {'localhost': 'yes'}
+2023-08-21 13:39:49,054 [DEBUG] [None]
+2023-08-21 13:40:48,700 [DEBUG] The console will now display all debug information.
+2023-08-21 13:40:48,701 [DEBUG] Processing mode has been selected.
+2023-08-21 13:40:50,742 [DEBUG] {'localhost': 'yes'}
+2023-08-21 13:40:50,743 [DEBUG] [None]
+2023-08-22 07:32:17,634 [DEBUG] The console will now display all debug information.
+2023-08-22 07:32:17,635 [DEBUG] Processing mode has been selected.
+2023-08-22 07:32:19,895 [DEBUG] {'localhost': 'yes'}
+2023-08-22 07:32:19,895 [DEBUG] [None]
+2023-08-22 07:33:12,490 [DEBUG] The console will now display all debug information.
+2023-08-22 07:33:12,490 [DEBUG] Processing mode has been selected.
+2023-08-22 07:33:14,373 [DEBUG] {'localhost': 'yes'}
+2023-08-22 07:33:14,374 [DEBUG] ['']
+2023-08-22 07:34:03,915 [DEBUG] The console will now display all debug information.
+2023-08-22 07:34:03,915 [DEBUG] Processing mode has been selected.
+2023-08-22 07:34:05,815 [DEBUG] Please use a configuration file!
+2023-08-22 07:34:05,815 [DEBUG] {'localhost': 'yes'}
+2023-08-22 07:34:05,816 [DEBUG] [None]
+2023-08-22 07:35:35,346 [DEBUG] The console will now display all debug information.
+2023-08-22 07:35:35,346 [DEBUG] Processing mode has been selected.
+2023-08-22 07:35:37,162 [DEBUG] {'localhost': 'yes'}
+2023-08-22 07:35:37,163 [DEBUG] [<lib.db.Database object at 0x125f41a10>]
+2023-08-22 07:36:13,969 [DEBUG] The console will now display all debug information.
+2023-08-22 07:36:13,969 [DEBUG] Camera mode has been selected.
+2023-08-22 07:36:13,969 [INFO] The camera server should start shortly.
+2023-08-22 07:36:37,891 [DEBUG] The console will now display all debug information.
+2023-08-22 07:36:37,891 [DEBUG] Processing mode has been selected.
+2023-08-22 07:36:39,695 [DEBUG] {'localhost': 'yes'}
+2023-08-22 07:36:39,696 [DEBUG] [<lib.db.Database object at 0x12ec5f1d0>]
+2023-08-22 07:38:31,823 [DEBUG] The console will now display all debug information.
+2023-08-22 07:38:31,824 [DEBUG] Processing mode has been selected.
+2023-08-22 07:38:33,636 [DEBUG] {'localhost': 'yes'}
+2023-08-22 07:38:33,636 [DEBUG] [<lib.db.Database object at 0x11bb02090>]
+2023-08-22 07:39:01,065 [DEBUG] The console will now display all debug information.
+2023-08-22 07:39:01,065 [DEBUG] Processing mode has been selected.
+2023-08-22 07:39:02,922 [DEBUG] {'localhost': 'yes'}
+2023-08-22 07:39:02,923 [DEBUG] [<lib.db.Database object at 0x1256a0610>]
+2023-08-22 08:14:26,125 [DEBUG] The console will now display all debug information.
+2023-08-22 08:14:26,125 [DEBUG] Processing mode has been selected.
+2023-08-22 08:14:28,120 [DEBUG] {'localhost': 'yes'}
+2023-08-22 08:14:28,120 [DEBUG] [<lib.db.Database object at 0x122163350>]
+2023-08-22 08:14:39,601 [DEBUG] The console will now display all debug information.
+2023-08-22 08:14:39,602 [DEBUG] Processing mode has been selected.
+2023-08-22 08:14:41,638 [DEBUG] {'localhost': 'yes'}
+2023-08-22 08:14:41,639 [DEBUG] [<lib.db.Database object at 0x130163750>]
+2023-08-22 08:15:05,762 [DEBUG] The console will now display all debug information.
+2023-08-22 08:15:05,762 [DEBUG] Processing mode has been selected.
+2023-08-22 08:15:07,545 [DEBUG] {'localhost': 'yes'}
+2023-08-22 08:15:07,545 [DEBUG] [<lib.db.Database object at 0x11c4bf010>]
+2023-08-22 08:19:28,139 [DEBUG] The console will now display all debug information.
+2023-08-22 08:19:28,139 [DEBUG] Processing mode has been selected.
+2023-08-22 08:19:29,887 [DEBUG] {'localhost': 'yes'}
+2023-08-22 08:19:29,888 [DEBUG] [<lib.db.Database object at 0x11bd12e90>]
+2023-08-23 12:30:00,053 [DEBUG] The console will now display all debug information.
+2023-08-23 12:30:00,053 [DEBUG] Camera mode has been selected.
+2023-08-23 12:30:00,053 [INFO] The camera server should start shortly.
+2023-08-23 12:30:03,931 [DEBUG] The console will now display all debug information.
+2023-08-23 12:30:03,931 [DEBUG] Display mode has been selected.
+2023-08-23 12:30:03,931 [INFO] You should see what localhost can see.
+2023-08-23 12:30:03,931 [INFO] Press 'Q' to quit.
+2023-08-23 12:36:04,623 [DEBUG] The console will now display all debug information.
+2023-08-23 12:36:04,624 [DEBUG] Camera mode has been selected.
+2023-08-23 12:36:04,624 [INFO] The camera server should start shortly.
+2023-08-23 12:37:47,342 [DEBUG] The console will now display all debug information.
+2023-08-23 12:37:47,342 [DEBUG] Processing mode has been selected.
+2023-08-23 12:37:49,349 [DEBUG] {'localhost': 'yes'}
+2023-08-23 12:37:49,349 [DEBUG] [<lib.db.Database object at 0x11a633190>]
+2023-08-23 12:40:18,360 [DEBUG] The console will now display all debug information.
+2023-08-23 12:40:18,360 [DEBUG] Processing mode has been selected.
+2023-08-23 12:40:20,072 [DEBUG] {'localhost': 'yes'}
+2023-08-23 12:40:20,073 [DEBUG] [<lib.db.Database object at 0x11fe51790>]
+2023-08-23 12:41:37,897 [DEBUG] The console will now display all debug information.
+2023-08-23 12:41:37,897 [DEBUG] Processing mode has been selected.
+2023-08-23 12:41:48,319 [DEBUG] The console will now display all debug information.
+2023-08-23 12:41:48,319 [DEBUG] Processing mode has been selected.
+2023-08-23 12:41:50,058 [DEBUG] {'localhost': 'yes'}
+2023-08-23 12:41:50,059 [DEBUG] [<lib.db.Database object at 0x1250e29d0>]
+2023-08-23 12:42:05,779 [DEBUG] The console will now display all debug information.
+2023-08-23 12:42:05,779 [DEBUG] Processing mode has been selected.
+2023-08-23 12:42:07,523 [DEBUG] {'localhost': 'yes'}
+2023-08-23 12:42:07,524 [DEBUG] [<lib.db.Database object at 0x104e24590>]
+2023-08-23 12:42:58,683 [DEBUG] The console will now display all debug information.
+2023-08-23 12:42:58,684 [DEBUG] Processing mode has been selected.
+2023-08-23 12:43:00,421 [DEBUG] {'localhost': 'yes'}
+2023-08-23 12:43:00,421 [DEBUG] [<lib.db.Database object at 0x11c63bb50>]
+2023-08-23 12:44:12,170 [DEBUG] The console will now display all debug information.
+2023-08-23 12:44:12,170 [DEBUG] Processing mode has been selected.
+2023-08-23 12:44:13,858 [DEBUG] {'localhost': 'yes'}
+2023-08-23 12:44:13,858 [DEBUG] [<lib.db.Database object at 0x1253bb090>]
+2023-08-23 12:46:46,471 [DEBUG] The console will now display all debug information.
+2023-08-23 12:46:46,471 [DEBUG] Processing mode has been selected.
+2023-08-23 12:46:48,267 [DEBUG] {'localhost': 'yes'}
+2023-08-23 12:46:48,267 [DEBUG] [<lib.db.Database object at 0x11f331550>]
+2023-08-23 12:47:12,550 [DEBUG] The console will now display all debug information.
+2023-08-23 12:47:12,550 [DEBUG] Processing mode has been selected.
+2023-08-23 12:47:14,281 [DEBUG] {'localhost': 'yes'}
+2023-08-23 12:47:14,282 [DEBUG] [<lib.db.Database object at 0x11aa954d0>]
+2023-08-23 12:47:35,410 [DEBUG] The console will now display all debug information.
+2023-08-23 12:47:35,410 [DEBUG] Processing mode has been selected.
+2023-08-23 12:47:37,155 [DEBUG] {'localhost': 'yes'}
+2023-08-23 12:47:37,156 [DEBUG] [<lib.db.Database object at 0x125ae1290>]
+2023-08-23 12:48:01,230 [DEBUG] The console will now display all debug information.
+2023-08-23 12:48:01,230 [DEBUG] Display mode has been selected.
+2023-08-23 12:48:01,230 [INFO] You should see what localhost can see.
+2023-08-23 12:48:01,230 [INFO] Press 'Q' to quit.
+2023-08-23 12:48:20,780 [DEBUG] The console will now display all debug information.
+2023-08-23 12:48:20,780 [DEBUG] Display mode has been selected.
+2023-08-23 12:48:20,780 [INFO] You should see what localhost can see.
+2023-08-23 12:48:20,780 [INFO] Press 'Q' to quit.
+2023-08-23 15:13:09,823 [DEBUG] The console will now display all debug information.
+2023-08-23 15:13:09,824 [DEBUG] Camera mode has been selected.
+2023-08-23 15:13:09,824 [INFO] The camera server should start shortly.
+2023-08-23 15:13:36,594 [DEBUG] The console will now display all debug information.
+2023-08-23 15:13:36,594 [DEBUG] Display mode has been selected.
+2023-08-23 15:13:36,594 [INFO] You should see what localhost can see.
+2023-08-23 15:13:36,595 [INFO] Press 'Q' to quit.
+2023-08-23 15:14:43,236 [WARNING] An error was made connecting to the camera. Waiting 5 seconds.
+2023-08-23 15:14:43,237 [DEBUG] Attempted and failed connection to localhost
+2023-08-23 15:14:48,237 [INFO] Trying again... NOW
+2023-08-23 15:14:48,240 [WARNING] An error was made connecting to the camera. Waiting 5 seconds.
+2023-08-23 15:14:48,240 [DEBUG] Attempted and failed connection to localhost
+2023-08-23 15:14:49,923 [DEBUG] The console will now display all debug information.
+2023-08-23 15:14:49,923 [DEBUG] Camera mode has been selected.
+2023-08-23 15:14:49,923 [INFO] The camera server should start shortly.
+2023-08-23 15:14:53,241 [INFO] Trying again... NOW
+2023-08-23 15:15:01,127 [WARNING] An error was made connecting to the camera. Waiting 5 seconds.
+2023-08-23 15:15:01,127 [DEBUG] Attempted and failed connection to localhost
+2023-08-23 15:15:06,127 [INFO] Trying again... NOW
+2023-08-23 15:15:06,130 [WARNING] An error was made connecting to the camera. Waiting 5 seconds.
+2023-08-23 15:15:06,130 [DEBUG] Attempted and failed connection to localhost
+2023-08-23 15:15:11,132 [INFO] Trying again... NOW
+2023-08-23 15:15:11,136 [WARNING] An error was made connecting to the camera. Waiting 5 seconds.
+2023-08-23 15:15:11,136 [DEBUG] Attempted and failed connection to localhost
+2023-08-23 15:15:12,738 [DEBUG] The console will now display all debug information.
+2023-08-23 15:15:12,738 [DEBUG] Camera mode has been selected.
+2023-08-23 15:15:12,738 [INFO] The camera server should start shortly.
+2023-08-23 15:15:16,137 [INFO] Trying again... NOW
